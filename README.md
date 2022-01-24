@@ -1,2 +1,1 @@
-# lab3
-B6220297
+# project-template
